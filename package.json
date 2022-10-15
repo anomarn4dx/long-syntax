@@ -1,0 +1,16 @@
+{
+  "name": "long-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A short description of your syntax theme",
+  "keywords": [
+    "เว็บตรง",
+    "บาคาร่า",
+    "สล็อตpg"
+  ],
+  "repository": "https://github.com/atom/long-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
